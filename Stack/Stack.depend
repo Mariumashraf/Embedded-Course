@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1624464998 source:d:\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<D:\Stack\types.h>
+
+1624466822 source:d:\embedded-course\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<D:\Embedded-Course\Stack\types.h>
+
